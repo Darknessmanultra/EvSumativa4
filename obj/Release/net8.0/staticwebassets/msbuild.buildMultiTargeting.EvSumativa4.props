@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EvSumativa4.props" />
+</Project>

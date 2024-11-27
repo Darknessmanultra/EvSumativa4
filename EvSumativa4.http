@@ -1,0 +1,6 @@
+@EvSumativa4_HostAddress = http://localhost:5126
+
+GET {{EvSumativa4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

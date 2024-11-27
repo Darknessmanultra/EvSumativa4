@@ -1,0 +1,5 @@
+services:
+  api:
+    image: "darkman/evsumativa4"
+    ports:
+      - "5126:8080"
